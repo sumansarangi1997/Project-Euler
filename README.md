@@ -1,2 +1,3 @@
 # Project-Euler
-Programs given in pojecteuler.net
+Programs given in pojecteuler.net solved using python 
+
